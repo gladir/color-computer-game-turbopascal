@@ -1,5 +1,7 @@
 # color-computer-game-turbopascal
 
+![image](https://github.com/gladir/color-computer-game-turbopascal/assets/11842176/555a3228-4ff4-40ac-a28b-f8a5721cf6ae)
+
 ![image](https://github.com/gladir/color-computer-game-turbopascal/assets/11842176/8a43d2be-e545-440e-a30a-805241330bca)
 
 ![image](https://github.com/gladir/color-computer-game-turbopascal/assets/11842176/b04cca8d-88a8-4c73-b4ba-c6a92413312a)
@@ -18,6 +20,11 @@ Voici la liste des différents fichiers de jeux proposés dans color-computer-ga
       <th>Nom</th>
       <th>Description</th>
      </tr>
+    <tr>
+        <td><b>BLOX.PAS</b></td>
+        <td><b>Blox</b></td>
+        <td>Ce fichier contient le clone du jeu Blox lequel est essentiellement un Tetris avec des blocs de prédéfinies dans le bas de l'écran.</td>
+    </tr>    
     <tr>
         <td><b>CSI.PAS</b></td>
         <td><b>Color Space Invaders</b></td>
