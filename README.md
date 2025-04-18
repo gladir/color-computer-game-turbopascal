@@ -8,7 +8,7 @@
 
 ![image](https://github.com/gladir/7iles/assets/11842176/c40f9183-092d-457b-978e-da7c2c10aab7)
 
-Suite de jeux écrit en Pascal étant des clones de jeux existant sur le CoCo (Color Computer) - CoCo 1, CoCo 2, CoCo 3
+Suite de jeux écrit en Turbo Pascal (compatible Free Pascal) étant des clones de jeux existant sur le CoCo (Color Computer) - CoCo 1, CoCo 2, CoCo 3
 
 # Liste des fichiers
 
